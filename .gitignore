@@ -1,0 +1,5 @@
+.idea/*
+composer-example/file-autoloader/vendor/*
+composer-example/class-autoloader/vendor/*
+composer-example/psr0-autoloader/vendor/*
+composer-example/psr4-autoloader/vendor/*

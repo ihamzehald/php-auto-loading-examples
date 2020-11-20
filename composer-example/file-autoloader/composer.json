@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "files": [
+		 	"src/BaseExampleClass.php",
+			"src/ExampleClassOne.php",
+		 	"src/ExampleClassTwo.php"
+	]
+    }
+}
