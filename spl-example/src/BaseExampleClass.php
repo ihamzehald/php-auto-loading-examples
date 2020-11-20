@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author Hamza Al Darawsheh <ihamzehald@gmail.com>
+ * Class BaseExampleClass
+ */
+
 class BaseExampleClass
 {
     public function getExampleData()

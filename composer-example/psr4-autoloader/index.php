@@ -1,6 +1,6 @@
 <?php
 
-require 'vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 use PALE\PSRFourExample\Core\ExampleClassOne;
 use PALE\PSRFourExample\Core\ExampleClassTwo;
